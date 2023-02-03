@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SAL24</string>
+    <string name="hello">My MainActivity</string>
+</resources>
